@@ -1,0 +1,9 @@
+a(非 tabbar 页):
+
+<view class="container">
+  <view bindtap="onTap"> switchTab index</view>
+  <view bindtap="onTapreLaunch"> reLaunch index</view>
+  <view bindtap="onTapreLaunch"> reLaunch b</view>
+  <view bindtap="onTapredirectTo"> redirectTo b</view>
+  <view bindtap="onTapBack">back</view>
+</view>

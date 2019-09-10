@@ -1,0 +1,4 @@
+logs(tabbar 页):
+<view class="container">
+  <view bindtap="onTapBack">back</view>
+</view>

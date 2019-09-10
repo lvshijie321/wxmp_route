@@ -1,0 +1,6 @@
+<!--index.wxml-->
+index(tabbar 页):
+<view class="container">
+  <view bindtap="onTap">navigateTo a</view>
+  <view bindtap="onTapBack">back</view>
+</view>
